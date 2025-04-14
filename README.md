@@ -1,9 +1,7 @@
 
 # Hello I am Potato!
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F700B8&width=435&lines=Hey+Im+PotatoIsCool;15+years+old">
-</p>
+
 
 ## 🚀 About Me
 
