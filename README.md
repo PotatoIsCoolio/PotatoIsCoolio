@@ -1,4 +1,4 @@
-# 🥔 Hello Im Potato!
+# Hello Im Potato!
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=10000&center=true&vCenter=true&multiline=true&width=900&height=100&lines=I'm+PotatoIsCool" alt="Typing SVG" />
@@ -39,7 +39,7 @@ Im **PotatoIsCool** a silly creature who writes code like it's magic spells.
   <img src="https://img.shields.io/badge/Language-Python-yellow?logo=python&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Debugger-x64dbg-red?logo=windows&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engine-Unreal-black?logo=unrealengine&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/unity-black?logo=unity&style=for-the-badge" />
 </p>
 
 ---
