@@ -8,11 +8,10 @@
 
 ## About Me
 
-Im **PotatoIsCool** a silly creature who writes code like it's magic spells.
+Im **PotatoIsCool** and im cool and cool!
 
 - Languages: Python, C++, Assembly is kinda interesting tho.
 - Interests: Reverse engineering, ImGui overlays, game internals
-- I make things break *better*!!!!!!
 - Also if you did not know, Im cool!
 
 ---
